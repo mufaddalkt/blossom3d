@@ -1,0 +1,30 @@
+BLOSSOM SCHOOL — INTERACTIVE 3D MODEL
+
+Open Blossom-School-3D.html in Chrome, Edge, Firefox or Safari.
+The viewer is self-contained and works without an internet connection.
+
+CONTROLS
+The campus rotates automatically. Use Pause / Resume to control rotation.
+Drag to look around the campus. Scroll or pinch to zoom.
+Right-drag or use two fingers to pan.
+Use the School, Left-side dam and Blossom gate buttons for closer views.
+Use Open gate to swing the gate leaves. Use Top view to inspect the layout.
+
+YOUR REQUESTED CHANGES
+The dam is on the left when looking at the front of the school.
+The upper and lower roads connect along the right side.
+The entrance has moved from the front wall to the right boundary.
+Cherry blossom trees and flowering vines surround the new gate.
+
+FILES
+Blossom-School-3D.html — interactive, rotating scene with moving water and traffic.
+Blossom-School.glb — portable 3D asset with embedded textures and a 30-second
+                    full-turn animation named Campus 360 turntable.
+Blossom-School-360.mp4 — a full-turn video preview.
+Blossom-School-preview.png — overview image.
+
+This is a visual reconstruction using the supplied model photograph and school
+photographs. Dimensions and surfaces hidden in the photographs are inferred.
+The GLB uses the EXT_mesh_gpu_instancing extension for efficient repeated detail.
+Water flow, traffic motion, interactive gate opening and drifting petals are
+animated in the HTML viewer; the GLB contains the campus turntable animation.
